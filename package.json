@@ -1,0 +1,12 @@
+{
+  "name": "yhs-electron",
+  "version": "1.0.0",
+  "private": false,
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^28.1.0"
+  },
+  "scripts": {
+    "start": "npx electron ."
+  }
+}
